@@ -6,7 +6,7 @@ date: 2021-09-23T19:15:06.602000
 
 **Author:** <span class="roam-page">[Mason Nystrom](mason-nystrom)</span>
 
-**Publication:** <span class="roam-page">[Messari](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/docs/messari)</span>
+**Publication:** <span class="roam-page">[Messari](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/messari)</span>
 
 **Date:** <span class="roam-page">[August 28th, 2020](august-28th-2020)</span>
 

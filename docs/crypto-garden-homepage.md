@@ -14,11 +14,11 @@ date: 2021-09-23T17:30:33.649000
 
 ---
 
-# [[Content Curation Hub]]
+# [[ScribeDAO Summaries]]
 
 ---
 
 # 💬 [[Get in touch with me]]
 
-<span class="roam-tag">[#publish](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/docs/publish)</span>
+<span class="roam-tag">[#publish](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/publish)</span>
 

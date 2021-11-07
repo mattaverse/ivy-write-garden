@@ -148,7 +148,7 @@ Bitcoin
 
   - [🔗](https://www.youtube.com/watch?v=f7F67ZP9fsE)https://www.youtube.com/watch?v=f7F67ZP9fsE
 
-<span class="roam-page">[DAOs](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/docs/daos)</span>
+<span class="roam-page">[DAOs](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/daos)</span>
 
 * Beginner's guide to DAOs
 
@@ -249,7 +249,7 @@ Resources
 
 * [🔗](https://twitter.com/Darrenlautf/status/1404787912823107592)https://twitter.com/Darrenlautf/status/1404787912823107592
 
-<span class="roam-page">[Solidity](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/docs/solidity)</span>
+<span class="roam-page">[Solidity](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/solidity)</span>
 
 * Austin's Dev Speed Run
 

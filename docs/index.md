@@ -8,7 +8,7 @@ date: 2021-09-28T17:41:55.148000
 
 ### Articles:
 
-<span class="roam-page">["How to Get a Job in Crypto"](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/docs/how-to-get-a-job-in-crypto)</span>
+<span class="roam-page">["How to Get a Job in Crypto"](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/how-to-get-a-job-in-crypto)</span>
 
 ["How to Supercharge Your Crypto Career"](https://messari.io/article/how-to-supercharge-your-crypto-career) 
 
@@ -22,7 +22,7 @@ date: 2021-09-28T17:41:55.148000
 
 ### Crypto Job Boards:
 
-<span class="roam-page">[Bankless](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/docs/bankless)</span> Job Board →  https://pallet.xyz/list/bankless/jobs
+<span class="roam-page">[Bankless](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/bankless)</span> Job Board →  https://pallet.xyz/list/bankless/jobs
 
 Cryptocurrency Jobs ([@jobsincrypto](https://twitter.com/jobsincrypto)) → https://cryptocurrencyjobs.co/
 
@@ -46,7 +46,7 @@ Telegram
 
 ["The best NFT news aggregators 📰"](https://metaversal.banklesshq.com/p/the-best-nft-news-aggregators-)
 
-["NFT Canon"](https://a16z.com/2021/04/02/nfts-readings-resources/) - Go-to resource curated by <span class="roam-page">[a16z](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/docs/a16z)</span> about NFTs
+["NFT Canon"](https://a16z.com/2021/04/02/nfts-readings-resources/) - Go-to resource curated by <span class="roam-page">[a16z](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/a16z)</span> about NFTs
 
 ### Learn about the [[Metaverse]]:
 
@@ -64,11 +64,11 @@ Telegram
 
 [The Virtual Economy](https://atelier.net/virtual-economy/) - Stunning website presentation about the intersection of crypto and virtual worlds [*]<span class="roam-blockref-missing">(RdQl2z5U1</span>)
 
-> Find more <span class="roam-page">[metaverse](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/docs/metaverse)</span> projects and resources → <span class="roam-page">[Awesome Metaverse](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/docs/awesome-metaverse)</span>
+> Find more <span class="roam-page">[metaverse](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/metaverse)</span> projects and resources → <span class="roam-page">[Awesome Metaverse](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/awesome-metaverse)</span>
 
 ### Learn about [[DAOs]]:
 
-Report: <span class="roam-page">["DAOs - The new frontier in Coordination"](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/docs/daos-the-new-frontier-in-coordination)</span>
+Report: <span class="roam-page">["DAOs - The new frontier in Coordination"](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/daos-the-new-frontier-in-coordination)</span>
 
 ### Learn about the [[Creator Economy]]:
 
@@ -82,7 +82,7 @@ Report: <span class="roam-page">["DAOs - The new frontier in Coordination"](http
 
 **Article:** ["The Classifications of Social Tokens"](https://messari.io/article/the-classifications-of-social-tokens)
 
-**Educational Course:** <span class="roam-page">[Forefront Learn](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/docs/forefront-learn)</span> -- ongoing education on social tokens, DAOs, web3, and beyond.
+**Educational Course:** <span class="roam-page">[Forefront Learn](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/forefront-learn)</span> -- ongoing education on social tokens, DAOs, web3, and beyond.
 
 * <span class="roam-blockref">[Social Tokens Basics - Course 1](https://forefront.market/learn/social-tokens-basics/course-1)</span>
 
@@ -100,7 +100,7 @@ Report: <span class="roam-page">["DAOs - The new frontier in Coordination"](http
 
 ["Explain it like I am 5: DeFi"](https://messari.io/article/explain-it-like-i-am-5-defi)
 
-<span class="roam-page">["Own the internet: A bull case for Ethereum"](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/docs/own-the-internet-a-bull-case-for-ethereum)</span>
+<span class="roam-page">["Own the internet: A bull case for Ethereum"](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/own-the-internet-a-bull-case-for-ethereum)</span>
 
 ---
 
@@ -126,7 +126,7 @@ The goal of EthHub is to provide a single source for essential Ethereum informat
 
 ---
 
-**🏡HOME🏡** → <span class="roam-page">[🪴 CRYPTO GARDEN HOMEPAGE](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/docs/crypto-garden-homepage)</span>
+**🏡HOME🏡** → <span class="roam-page">[🪴 CRYPTO GARDEN HOMEPAGE](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/crypto-garden-homepage)</span>
 
 ---
 
