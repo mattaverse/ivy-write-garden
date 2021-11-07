@@ -20,5 +20,5 @@ date: 2021-09-23T17:30:33.649000
 
 # 💬 [[Get in touch with me]]
 
-<span class="roam-tag">[#publish](docs/content/publish)</span>
+<span class="roam-tag">[#publish](docs/publish)</span>
 

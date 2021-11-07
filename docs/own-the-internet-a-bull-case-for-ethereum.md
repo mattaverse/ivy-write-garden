@@ -4,11 +4,11 @@ date: 2021-09-23T19:04:53.497000
 
 ---
 
-**Author:** <span class="roam-page">[Packy McCormick](docs/content/packy-mccormick)</span>
+**Author:** <span class="roam-page">[Packy McCormick](docs/packy-mccormick)</span>
 
-**Publication:** <span class="roam-page">[Not Boring by Packy M](docs/content/not-boring-by-packy-m)</span>
+**Publication:** <span class="roam-page">[Not Boring by Packy M](docs/not-boring-by-packy-m)</span>
 
-**Date:** <span class="roam-page">[May 24th, 2021](docs/content/may-24th-2021)</span>
+**Date:** <span class="roam-page">[May 24th, 2021](docs/may-24th-2021)</span>
 
 **URL:** https://www.notboring.co/p/own-the-internet
 
@@ -203,7 +203,7 @@ One of the things that Bitcoin Maximalists like the most about bitcoin is that y
 
 Two changes are coming to the Ethereum blockchain that aim to fix the challenges mentioned above.
 
-**[EIP-1559](https://notes.ethereum.org/@vbuterin/eip-1559-faq)** is a proposal that changes how gas fees work by splitting them into two parts -- a base fee and a tip. With EIP 1559, the **base fee is burned** on each transaction and the miner (and soon validator) keeps the tip. It sounds dull, but it’s huge, because burning will likely make ETH **deflationary**. Plus, the tip allows people who value better block positions to pay more. That might be important for DeFi participants trying to execute an arbitrage, for example. The proposal was approved in March and will go into effect in July (as part of the [London hard fork](https://cointelegraph.com/news/a-london-tour-guide-what-the-eip-1559-hard-fork-promises-for-ethereum)). <span class="roam-page">[*](docs/content/eip-1559)</span>
+**[EIP-1559](https://notes.ethereum.org/@vbuterin/eip-1559-faq)** is a proposal that changes how gas fees work by splitting them into two parts -- a base fee and a tip. With EIP 1559, the **base fee is burned** on each transaction and the miner (and soon validator) keeps the tip. It sounds dull, but it’s huge, because burning will likely make ETH **deflationary**. Plus, the tip allows people who value better block positions to pay more. That might be important for DeFi participants trying to execute an arbitrage, for example. The proposal was approved in March and will go into effect in July (as part of the [London hard fork](https://cointelegraph.com/news/a-london-tour-guide-what-the-eip-1559-hard-fork-promises-for-ethereum)). <span class="roam-page">[*](docs/eip-1559)</span>
 
 **[Eth2](https://ethereum.org/en/eth2/)**is an upgrade to the Ethereum blockchain itself that will shift consensus from Proof of Work to Proof of Stake and introduce sharding. Eth2 is expected to make Ethereum more scalable, more secure, and more sustainable. The PoS chain, or Beacon Chain, is already live, and is expected to merge with the main chain some time in late 2021 or early 2022.
 
@@ -240,7 +240,7 @@ So how does ETH make money? Where does value accrue?
 
 There are a lot of ways to earn money on your ETH -- staking, yield farming, liquidity pools, validating, and more -- but let’s look at the simplest, just owning ETH like you’d own a stock.
 
-Once <span class="roam-page">[EIP-1559](docs/content/eip-1559)</span> is implemented and the Eth2 merge is complete, value accrues to the people who hold ETH, in a few ways:
+Once <span class="roam-page">[EIP-1559](docs/eip-1559)</span> is implemented and the Eth2 merge is complete, value accrues to the people who hold ETH, in a few ways:
 
 * **Tips and Issuance. **Tips and new issuance go to ETH holders and are retained in the system (net of taxes) instead of going to miners to pay for hardware and electricity.
 * **Burned Gas.** Burned gas permanently removes supply from the ecosystem, and at certain transaction rates, actually _decreases _the overall supply of ETH each year.
@@ -271,7 +271,7 @@ In the post, Vitalik highlights six ways that legitimacy can come about. Two are
 
 Performance and continuity create the [Lindy Effect](https://en.wikipedia.org/wiki/Lindy_effect), which says that the **longer something lasts, the longer it can be expected to last.** Something that has been around for a year is expected to be around for another year, but something that has been around for 100 years is expected to be around for another 100 years.
 
-This is an observable phenomenon. Amazon is more likely to be around in 30 years than a new startup, our kids are more likely to listen to the Beatles than to Olivia Rodrigo, and our grandkids’ grandkids’ grandkids’ are more likely to read <span class="roam-page">[Socrates](docs/content/socrates)</span> than Dan Brown.
+This is an observable phenomenon. Amazon is more likely to be around in 30 years than a new startup, our kids are more likely to listen to the Beatles than to Olivia Rodrigo, and our grandkids’ grandkids’ grandkids’ are more likely to read <span class="roam-page">[Socrates](docs/socrates)</span> than Dan Brown.
 
 Legitimacy helps explain the Lindy Effect. The longer something has been around, the more people can expect that other people will continue to use it. In the Excel piece, we described a couple more reasons something can be Lindy:
 
@@ -290,7 +290,7 @@ While they’ve been doing it for years, that model is starting to show cracks. 
 
 What makes Ethereum’s network effect potentially stronger, and potentially more long-lasting, is that it aligns incentives in a way that traditional software doesn’t.
 
-Both users and developers hold ETH -- its the most used token in the Great Online Game -- and benefit from its appreciation. With <span class="roam-page">[EIP-1559](docs/content/eip-1559)</span> and the Eth2 merge, the more ETH is used, the more value accrues to its holders. Additionally, the **more ETH is worth, the harder it is to attack**.
+Both users and developers hold ETH -- its the most used token in the Great Online Game -- and benefit from its appreciation. With <span class="roam-page">[EIP-1559](docs/eip-1559)</span> and the Eth2 merge, the more ETH is used, the more value accrues to its holders. Additionally, the **more ETH is worth, the harder it is to attack**.
 
 In _Ether: A New Model for Money, _Hoffman said that fees paid to Ethereum validators act as a wall that protects Ethereum: “The height of the wall is highly correlated with the total fees produced by the network. The height of the wall is the cost of attacking Ethereum.”
 

@@ -4,7 +4,7 @@ date: 2021-09-23T18:54:12.453000
 
 ---
 
-Captured: <span class="roam-page">[September 6th, 2021](docs/content/september-6th-2021)</span>
+Captured: <span class="roam-page">[September 6th, 2021](docs/september-6th-2021)</span>
 
 * via [[The Daily Ape]]
 
@@ -20,11 +20,11 @@ Bitcoin
 
   - [🔗](https://www.paradigm.xyz/2020/05/7-things-to-read-about-bitcoin-for-institutional-investors/)https://www.paradigm.xyz/2020/05/7-things-to-read-about-bitcoin-for-institutional-investors/
 
-<span class="roam-page">[Layer 1s](docs/content/layer-1)</span>
+<span class="roam-page">[Layer 1s](docs/layer-1)</span>
 
 * [🔗](https://www.theblockcrypto.com/post/114225/layer-1-platforms-a-framework-for-comparison)https://www.theblockcrypto.com/post/114225/layer-1-platforms-a-framework-for-comparison
 
-<span class="roam-page">[Layer 2s](docs/content/layer-2)</span>
+<span class="roam-page">[Layer 2s](docs/layer-2)</span>
 
 * An overview of ETH’s L2 Ecosystem
 
@@ -39,7 +39,7 @@ Bitcoin
 
   - [🔗](https://twitter.com/benjaminsimon97/status/1413163971562065921)https://twitter.com/benjaminsimon97/status/1413163971562065921
 
-<span class="roam-page">[Ethereum](docs/content/ethereum)</span>
+<span class="roam-page">[Ethereum](docs/ethereum)</span>
 
 * Monopolies with Growth: Ethereum
 
@@ -60,7 +60,7 @@ Bitcoin
 
   - [🔗](https://pentacle.xyz/ethereum)https://pentacle.xyz/ethereum
 
-<span class="roam-page">[Solana](docs/content/solana)</span>
+<span class="roam-page">[Solana](docs/solana)</span>
 
 * Not Boring : Solana
 
@@ -78,7 +78,7 @@ Bitcoin
 
   - [🔗](https://pentacle.xyz/solana)https://pentacle.xyz/solana
 
-<span class="roam-page">[Avalanche](docs/content/avalanche)</span>
+<span class="roam-page">[Avalanche](docs/avalanche)</span>
 
 * Avalanche Bull Case
 
@@ -87,7 +87,7 @@ Bitcoin
 
   - [🔗](https://twitter.com/Darrenlautf/status/1428565212605546499)https://twitter.com/Darrenlautf/status/1428565212605546499
 
-<span class="roam-page">[Fantom](docs/content/fantom)</span>
+<span class="roam-page">[Fantom](docs/fantom)</span>
 
 * Fantom Skill Tree
 
@@ -96,7 +96,7 @@ Bitcoin
 
   - [🔗](https://twitter.com/0xKepler/status/1432349279910342663)https://twitter.com/0xKepler/status/1432349279910342663
 
-<span class="roam-page">[Terra](docs/content/terra)</span>
+<span class="roam-page">[Terra](docs/terra)</span>
 
 * Terra Ecosystem
 
@@ -109,7 +109,7 @@ Bitcoin
   - https://threadreaderapp.com/thread/1429782871229747202.html
   - [🔗](https://twitter.com/TheMoonMidas/status/1429782871229747202)https://twitter.com/TheMoonMidas/status/1429782871229747202
 
-<span class="roam-page">[Cosmos](docs/content/cosmos)</span>
+<span class="roam-page">[Cosmos](docs/cosmos)</span>
 
 * A Cosmos Thesis
 
@@ -118,7 +118,7 @@ Bitcoin
 
   - [🔗](https://twitter.com/TheTIEIO/status/1420784275033661446)https://twitter.com/TheTIEIO/status/1420784275033661446
 
-<span class="roam-page">[DOT](docs/content/dot)</span>/<span class="roam-page">[KSM](docs/content/ksm)</span>
+<span class="roam-page">[DOT](docs/dot)</span>/<span class="roam-page">[KSM](docs/ksm)</span>
 
 * Beginner's guide to DOT
 
@@ -133,7 +133,7 @@ Bitcoin
 
   - [🔗](https://dotpulse.defipulse.com/)https://dotpulse.defipulse.com/
 
-<span class="roam-page">[Polygon](docs/content/matic-polygon)</span>
+<span class="roam-page">[Polygon](docs/matic-polygon)</span>
 
 * Polygon explained
 
@@ -148,7 +148,7 @@ Bitcoin
 
   - [🔗](https://www.youtube.com/watch?v=f7F67ZP9fsE)https://www.youtube.com/watch?v=f7F67ZP9fsE
 
-<span class="roam-page">[DAOs](docs/content/daos)</span>
+<span class="roam-page">[DAOs](docs/daos)</span>
 
 * Beginner's guide to DAOs
 
@@ -172,7 +172,7 @@ Bitcoin
 
   - [🔗](https://p.mirror.xyz/cVN3KOss0uqpZwxHQKtC4Syvn1RfXaxofFKHJuKLWS4)https://p.mirror.xyz/cVN3KOss0uqpZwxHQKtC4Syvn1RfXaxofFKHJuKLWS4
 
-<span class="roam-page">[Creator Economy](docs/content/creator-economy)</span>
+<span class="roam-page">[Creator Economy](docs/creator-economy)</span>
 
 * The Creator Economy & Web3
 
@@ -184,7 +184,7 @@ Bitcoin
 
   - [🔗](https://messari.io/article/the-social-token-bible?referrer=author:mason-nystrom)https://messari.io/article/the-social-token-bible?referrer=author:mason-nystrom
 
-<span class="roam-page">[NFT](docs/content/nft)</span>
+<span class="roam-page">[NFT](docs/nft)</span>
 
 * [The NFT Stack]([[Messari/"The NFT Stack: Exploring The NFT Ecosystem"]])
 
@@ -200,7 +200,7 @@ Bitcoin
 
   - [🔗](https://twitter.com/0xminion/status/1364199354463002624)https://twitter.com/0xminion/status/1364199354463002624
 
-<span class="roam-page">[Gaming](docs/content/gaming)</span>
+<span class="roam-page">[Gaming](docs/gaming)</span>
 
 * Axie Infinity, Yield Guild Games & The Play to earn economy
 
@@ -212,7 +212,7 @@ Bitcoin
 
   - [🔗](https://www.notboring.co/p/infinity-revenue-infinity-possibilities)https://www.notboring.co/p/infinity-revenue-infinity-possibilities
 
-<span class="roam-page">[Investing](docs/content/investing)</span>
+<span class="roam-page">[Investing](docs/investing)</span>
 
 * Investing vs Trading
 
@@ -236,7 +236,7 @@ Bitcoin
 
   - [🔗](https://www.paradigm.xyz/How_To_Survive_A_Crypto_Cycle.pdf)https://www.paradigm.xyz/How_To_Survive_A_Crypto_Cycle.pdf
 
-Working in crypto<span class="roam-page">[*](docs/content/career-opportunities)</span>
+Working in crypto<span class="roam-page">[*](docs/career-opportunities)</span>
 
 * Case for leaving FAANG
 
@@ -249,7 +249,7 @@ Resources
 
 * [🔗](https://twitter.com/Darrenlautf/status/1404787912823107592)https://twitter.com/Darrenlautf/status/1404787912823107592
 
-<span class="roam-page">[Solidity](docs/content/solidity)</span>
+<span class="roam-page">[Solidity](docs/solidity)</span>
 
 * Austin's Dev Speed Run
 

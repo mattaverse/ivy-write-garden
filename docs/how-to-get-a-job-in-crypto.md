@@ -4,11 +4,11 @@ date: 2021-09-23T19:15:06.602000
 
 ---
 
-**Author:** <span class="roam-page">[Mason Nystrom](docs/content/mason-nystrom)</span>
+**Author:** <span class="roam-page">[Mason Nystrom](docs/mason-nystrom)</span>
 
-**Publication:** <span class="roam-page">[Messari](docs/content/messari)</span>
+**Publication:** <span class="roam-page">[Messari](docs/messari)</span>
 
-**Date:** <span class="roam-page">[August 28th, 2020](docs/content/august-28th-2020)</span>
+**Date:** <span class="roam-page">[August 28th, 2020](docs/august-28th-2020)</span>
 
 **URL:** https://messari.io/article/how-to-get-a-job-in-crypto
 
@@ -50,7 +50,7 @@ Volunteering can be a great way to get some experience, build your resume, and c
 
 Personally speaking, Messari was a significant benefit to my career early on, not only in experience, but also in terms of stature. In the ‘real’ business world, people listen when your resume has an Ivy League school or reads McKinsey, Goldman Sachs, or [insert your favorite big-name company]. It may be unfortunate, but humans have a desire to assign status.
 
-Messari, ConsenSys, <span class="roam-page">[Multicoin Capital](docs/content/multicoin-capital)</span>, Bitmex, <span class="roam-page">[Pantera Capital](docs/content/pantera-capital)</span>, Binance, and Coinbase are some of the most well-known firms in crypto.
+Messari, ConsenSys, <span class="roam-page">[Multicoin Capital](docs/multicoin-capital)</span>, Bitmex, <span class="roam-page">[Pantera Capital](docs/pantera-capital)</span>, Binance, and Coinbase are some of the most well-known firms in crypto.
 
 More anecdotally, I’ve seen many volunteers from Messari move full time into crypto all because when given a more substantial platform – the Messari community – [they used it as leverage](https://twitter.com/naval/status/1002106893265920000) to get themselves noticed by the right people.
 
