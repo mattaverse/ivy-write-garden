@@ -8,7 +8,7 @@ date: 2021-09-23T19:04:53.497000
 
 **Publication:** <span class="roam-page">[Not Boring by Packy M](not-boring-by-packy-m)</span>
 
-****Date:**** <span class="roam-page">[May 24th, 2021](may-24th-2021)</span>
+**Date:** <span class="roam-page">[May 24th, 2021](may-24th-2021)</span>
 
 **URL:** https://www.notboring.co/p/own-the-internet
 
@@ -366,7 +366,7 @@ As Flow brings more non-crypto people into Web3, both Flow and Ethereum benefit.
 
 The L1 that I’m most excited about besides Ethereum is [Solana](https://solana.com/)_(disclosure: I own some SOL)_.
 
-Solana is likely the fastest and lowest cost blockchain in operation, capable of 50,000 transactions per second (TPS), compared to Ethereum’s current 19 TPS, at a cost of less than one-tenth of one cent. This **Thread** from Sino Global is chock full of information on Solana for the curious.
+Solana is likely the fastest and lowest cost blockchain in operation, capable of 50,000 transactions per second (TPS), compared to Ethereum’s current 19 TPS, at a cost of less than one-tenth of one cent. This thread from Sino Global is chock full of information on Solana for the curious.
 
 ![Twitter avatar for @sinoglobalcap](https://cdn.substack.com/image/twitter_name/w_36/sinoglobalcap.jpg)[**Sino Global Capital **@sinoglobalcapWhy we are bullish on Solana.
 
@@ -388,7 +388,7 @@ That’s one of the most interesting things about blockchain technology -- the a
 
 Here, too, something that I first thought was competitive with Ethereum is actually a complement. By optimizing for a high-speed trading use case not currently possible on Ethereum, Solana is bringing more financial activity on-chain. By enabling microtransactions like votes and likes, on-chain, and improving the user experience for products that also run on Ethereum, Solana is improving the web3 experience and onboarding more users.
 
-Plus, Solana is building compatibility with Ethereum that would allow it to behave like an Ethereum L2, but with the functionality of a L1, including the ability to deposit USD directly at miniscule fees. More on-ramps is net positive for the ecosystem as a whole, and Ethereum sits at the center of the ecosystem. This **Thread** captures the argument well.
+Plus, Solana is building compatibility with Ethereum that would allow it to behave like an Ethereum L2, but with the functionality of a L1, including the ability to deposit USD directly at miniscule fees. More on-ramps is net positive for the ecosystem as a whole, and Ethereum sits at the center of the ecosystem. This thread captures the argument well.
 
 ![Twitter avatar for @adamscochran](https://cdn.substack.com/image/twitter_name/w_36/adamscochran.jpg)[**Adam Cochran **@adamscochran1/33
 

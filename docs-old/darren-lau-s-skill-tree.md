@@ -106,7 +106,7 @@ Bitcoin
   - [🔗](https://www.delphidigital.io/reports/mirror-vs-synthetix-how-about-terra/)https://www.delphidigital.io/reports/mirror-vs-synthetix-how-about-terra/
 * Terra Resources
 
-  - https://**Thread**readerapp.com/**Thread**/1429782871229747202.html
+  - https://threadreaderapp.com/thread/1429782871229747202.html
   - [🔗](https://twitter.com/TheMoonMidas/status/1429782871229747202)https://twitter.com/TheMoonMidas/status/1429782871229747202
 
 <span class="roam-page">[Cosmos](cosmos)</span>
@@ -191,12 +191,12 @@ Bitcoin
   - [🔗](https://messari.io/article/the-nft-stack-exploring-the-nft-ecosystem?utm_source=newsletter&utm_medium=middle&utm_campaign=nft-stack-exploring)https://messari.io/article/the-nft-stack-exploring-the-nft-ecosystem
 * [Mason's]([[Mason Nystrom]]) favorite NFT pieces
 
-  - https://**Thread**readerapp.com/**Thread**/1347700222277820418.html
+  - https://threadreaderapp.com/thread/1347700222277820418.html
   - [🔗](https://twitter.com/masonnystrom/status/1347700222277820418)https://twitter.com/masonnystrom/status/1347700222277820418
 
     + [[Messari/"The Psychology of Crypto Art Collecting"]]
     + [[Messari/"The Art of Finding Venture Scale Returns in NFTs"]]
-* NFT Master resource **Thread**
+* NFT Master resource thread
 
   - [🔗](https://twitter.com/0xminion/status/1364199354463002624)https://twitter.com/0xminion/status/1364199354463002624
 

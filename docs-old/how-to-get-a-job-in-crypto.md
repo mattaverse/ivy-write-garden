@@ -4,6 +4,14 @@ date: 2021-09-23T19:15:06.602000
 
 ---
 
+**Author:** <span class="roam-page">[Mason Nystrom](mason-nystrom)</span>
+
+**Publication:** <span class="roam-page">[Messari](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/messari)</span>
+
+**Date:** <span class="roam-page">[August 28th, 2020](august-28th-2020)</span>
+
+**URL:** https://messari.io/article/how-to-get-a-job-in-crypto
+
 # Full Text:
 
 Messari is hiring for various positions, including full-time analysts and a few select community analysts.
@@ -188,11 +196,4 @@ Apply.
 Work hard, stay humble, and live happily.
 
 Lastly, I’d like to thank Messari for giving me the opportunity to work in a field I love, surrounded by incredible individuals. Also, thank you Crypto Twitter, most of you are awesome.
-
----
-
-* **Author:** [[Mason Nystrom]]
-* **Publication:** [[Messari]]
-* ****Date:**** [[August 28th, 2020]]
-* **URL:** https://messari.io/article/how-to-get-a-job-in-crypto
 

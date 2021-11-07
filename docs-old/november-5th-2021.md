@@ -6,36 +6,24 @@ date: 2021-11-06T02:41:55.456000
 
 Beginning to add in notes from <span class="roam-page">[ScribeDAO](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/scribedao)</span>
 
-* Template for ScribeDAO Threads #roam/templates
+* Template for ScribeDAO threads #roam/templates
 
   - ["ARTICLETITLE"](LINKTOINTROTWEET)
 
-    + Scribe 
-
-      * **Date:** 
-      * **Tweet Link:** 
-
         - 
-      * **Topic:** 
-    + **TL;DR**
+    + [[TL;DR]]
 
       * 
-    + **Thread**
+    + [[Thread]]
 
       * 
 * Example:
 
-    + Scribe [[Oopshah]]
-
-      * **Date:** [[November 1st, 2021]]
-      * **Tweet Link:** 
-
         - https://twitter.com/Oopshah/status/1455203188290641925
-      * **Topic:** [[Bitcoin]] [[mining]]
-    + **TL;DR**
+    + [[TL;DR]]
 
       * 
-    + **Thread**
+    + [[Thread]]
 
       * Last week, [@nic__carter](https://twitter.com/nic__carter) and @shaunenergy brought us some good news:
 

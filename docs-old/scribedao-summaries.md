@@ -4,19 +4,19 @@ date: 2021-09-28T17:46:48.249000
 
 ---
 
-> Summaries from the <span class="roam-page">[ScribeDAO](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/scribedao)</span> Community.
+Summaries from the <span class="roam-page">[ScribeDAO](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/scribedao)</span> Community.
 
----
+Captured <span class="roam-page">[November 6th, 2021](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/november-6th-2021)</span>
 
-<span class="roam-page">[November 6th, 2021](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/november-6th-2021)</span>
+* {{[[TODO]]}} ["David Ehrlichman: Scaling DAOs through human connection + foundations for decentralized organizing"](https://twitter.com/SicarioOfCrypto/status/1457072703551131649)
 
-* ["David Ehrlichman: Scaling DAOs through human connection + foundations for decentralized organizing"](https://twitter.com/SicarioOfCrypto/status/1457072703551131649) - podcast summarized by [[@SicarioOfCrypto]]
-
-  - **TL;DR**
+      * https://twitter.com/SicarioOfCrypto/status/1457072703551131649
+  - [[TL;DR]]
 
     + 
-  - **Thread**
+  - [[Thread]]
 
+    + [Tweet](https://twitter.com/i/status/1457072703551131649) by [@SicarioOfCrypto](https://twitter.com/SicarioOfCrypto) on [[November 6th, 2021]]:
     + 1/ Summary of [@chaserchapman](https://twitter.com/chaserchapman)'s excellent interview with [@davehrlichman](https://twitter.com/davehrlichman): Scaling DAOs through human connection + foundations for decentralized organizing
 
       * For [@scribeDAO](https://twitter.com/scribeDAO)
@@ -54,18 +54,23 @@ date: 2021-09-28T17:46:48.249000
     + 8/ Anonymity in emergent impact networks: It's fine, active convenance beyond personal info through strong viewpoints, personality beyond id
 
       * 1 on 1 human connections are the basis of open collab communities, ownership is a critical factor, ability of community to shape direction
-    + 9/ Balance task oriented structure with relationship first community
+    + 9/Balance task oriented structure with relationship first community
 
       * Structure around task vs relationship first structure
       * open economies allocate resources effortlessly &amp; evolve through an uncertain future
     + Here's her interview: [17. David Ehrlichman: Scaling DAOs through human connection + foundations for decentralized organizing](https://lnns.co/5uUkYWOcVRD).
 
       * Follow [@scribeDAO](https://twitter.com/scribeDAO) for more summaries and join the Discord to collab with our fam: [Join the ScribeDAO Discord Server!](https://discord.gg/VfFTJd7F)
-* ["Patrick Rivera: Lifecycle of a web3 community"](https://twitter.com/SicarioOfCrypto/status/1457060275799015425) - podcast summarized by [[@SicarioOfCrypto]]
+* {{[[TODO]]}} ["Lifecycle of a web3 community"](https://twitter.com/SicarioOfCrypto/status/1457060275799015425)
 
-  - **TL;DR**
-  - **Thread**
+      * https://twitter.com/SicarioOfCrypto/status/1457060275799015425
+    + #Podcast #Interview
+  - [[TL;DR]]
 
+    + 
+  - [[Thread]]
+
+    + [Tweet](https://twitter.com/i/status/1457060275799015425) by [@SicarioOfCrypto](https://twitter.com/SicarioOfCrypto) on [[November 6th, 2021]]:
     + 1/ Summary of [@chaserchapman](https://twitter.com/chaserchapman)’s interview with [@patrickxrivera](https://twitter.com/patrickxrivera) of [@viamirror](https://twitter.com/viamirror): Lifecycle of a web3 community
 
       * For [@scribeDAO](https://twitter.com/scribeDAO)
@@ -114,10 +119,15 @@ date: 2021-09-28T17:46:48.249000
     + Here's the interview if you want to listen: [18. Patrick Rivera: Lifecycle of a web3 community - On The Other Side (podcast)](https://lnns.co/J-RQp8YV2XT).
 
       * Follow [@scribeDAO](https://twitter.com/scribeDAO) for more summaries like this and join our discord to hang out with our fam: [Join the ScribeDAO Discord Server!](https://discord.gg/VfFTJd7F)
-* ["Rewards in Polkaswap and the SORA Network"](https://twitter.com/drosewritings/status/1457017103937122312) - summarized by [[demetriagiles.eth]]
+* ["Rewards in Polkaswap and the SORA Network"](https://twitter.com/drosewritings/status/1457017103937122312)
 
-  - **Thread**
+      * https://twitter.com/drosewritings/status/1457017103937122312
+  - [[TL;DR]]
 
+    + 
+  - [[Thread]]
+
+    + [Tweet](https://twitter.com/i/status/1457017103937122312) by [@drosewritings](https://twitter.com/drosewritings) on [[November 6th, 2021]]:
     + “Rewards in Polkaswap and the SORA Network” by [@polkaswap](https://twitter.com/polkaswap) for [@scribeDAO](https://twitter.com/scribeDAO)
 
       * tdlr: #Polkaswap gives rewards for supporting [@sora_xor](https://twitter.com/sora_xor) 💰
@@ -133,23 +143,25 @@ date: 2021-09-28T17:46:48.249000
 
       * 🎉 For more on the process of becoming a validator, head here: [Become a SORA Validator](https://wiki.sora.org/become-a-sora-validator)
       * For a full breakdown of rewards, go here: [Rewards in Polkaswap and the SORA Network](https://wiki.sora.org/sora-academy/rewards-in-polkaswap) [pic.twitter.com/lGX37ihltr](https://twitter.com/drosewritings/status/1457017127572054032/photo/1)
-    + 5/6 Now, check out this recent [@scribeDAO](https://twitter.com/scribeDAO) **Thread** to learn more about [@polkaswap](https://twitter.com/polkaswap) &amp; [@sora_xor](https://twitter.com/sora_xor). [twitter.com/AhmedEYusuf/st…](https://twitter.com/AhmedEYusuf/status/1455549244295680001?s=20)
+    + 5/6 Now, check out this recent [@scribeDAO](https://twitter.com/scribeDAO) thread to learn more about [@polkaswap](https://twitter.com/polkaswap) &amp; [@sora_xor](https://twitter.com/sora_xor). [twitter.com/AhmedEYusuf/st…](https://twitter.com/AhmedEYusuf/status/1455549244295680001?s=20)
     + 6/6 ✍️ [@scribeDAO](https://twitter.com/scribeDAO) makes learning crypto easier with short &amp; sweet summaries of crypto news.
 
       * Want more summarizes? Follow us &amp; make sure to tag @scribeDAO when you come across content you'd like to see us summarize.
       * Want to write? Join our Discord to find out more!
-* ["The creator attribution ratio"](https://twitter.com/yahya_ahd/status/1456899198817902600) - summarized by [[Yahya]]
+* ["The creator attribution ratio"](https://twitter.com/yahya_ahd/status/1456899198817902600)
 
-  - **TL;DR**
+      * https://twitter.com/yahya_ahd/status/1456899198817902600
+  - [[TL;DR]]
 
     + #NFTs are about attribution and we still have a long way to go.
-  - **Thread**
+  - [[Thread]]
 
+    + [Tweet](https://twitter.com/i/status/1456899198817902600) by [@yahya_ahd](https://twitter.com/yahya_ahd) on [[November 6th, 2021]]:
     + 1/9
 
-      * This **Thread** summarizes  [@Joey_DeBruin](https://twitter.com/Joey_DeBruin)'s "The creator attribution ratio".
-      * **TL;DR**: #NFTs are about attribution and we still have a long way to go.
-      * A [@scribeDAO](https://twitter.com/scribeDAO) **Thread**.
+      * This thread summarizes  [@Joey_DeBruin](https://twitter.com/Joey_DeBruin)'s "The creator attribution ratio".
+      * TL;DR: #NFTs are about attribution and we still have a long way to go.
+      * A [@scribeDAO](https://twitter.com/scribeDAO) thread.
     + [@Joey_DeBruin](https://twitter.com/Joey_DeBruin) [@scribeDAO](https://twitter.com/scribeDAO) 2/9
 
       * For him, the central function of NFTs is to attribute the value of digital contents to their creators and owners.
@@ -161,14 +173,12 @@ date: 2021-09-28T17:46:48.249000
     + [@Joey_DeBruin](https://twitter.com/Joey_DeBruin) [@scribeDAO](https://twitter.com/scribeDAO) 4/9
 
       * In an ideal scenario, whenever a digital content is used as input somewhere else, the NFT of that content should be attributed. If the output generate some monetary value, then some royalty should flow in to original input as well. [pic.twitter.com/pn63mqRANY](https://twitter.com/yahya_ahd/status/1456899245252956164/photo/1)
-      * ![Image](https://pbs.twimg.com/media/FDfyILjXoAIj6w3?format=png&name=small)
     + [@Joey_DeBruin](https://twitter.com/Joey_DeBruin) [@scribeDAO](https://twitter.com/scribeDAO) 5/9
 
       * However, this isn't how current designs of NFTs work. Top Shot moment NFT doesn't get any royalties when the clip is used in some ad or movie.
     + [@Joey_DeBruin](https://twitter.com/Joey_DeBruin) [@scribeDAO](https://twitter.com/scribeDAO) 6/9
 
       * Another weakness in attribution: value of an NFT is typically based on the value of the content at a given moment rather than total value it delivers over time. This creates volatility, which leads to "pump and dump" behaviors. [pic.twitter.com/Gpii8sp7A9](https://twitter.com/yahya_ahd/status/1456899279793098755/photo/1)
-      * ![Image](https://pbs.twimg.com/media/FDfyJ8iXMAA7OtP?format=jpg&name=large)
     + [@Joey_DeBruin](https://twitter.com/Joey_DeBruin) [@scribeDAO](https://twitter.com/scribeDAO) 7/9
 
       * Attribution matters to creators of all kinds, ranging from scientists, writers, YouTubers etc. Creators rely on attribution in order to build a feedback loop from the content they build to further investment and advancement of their career.
@@ -182,21 +192,20 @@ date: 2021-09-28T17:46:48.249000
       * Follow us!
       * Tag content with @ScribeDAO so we can add the best articles to our backlog!
       * Join our Discord: [Join the ScribeDAO Discord Server!](https://discord.gg/9SCvpvs7jX) [pic.twitter.com/AndOaKl1Ai](https://twitter.com/yahya_ahd/status/1456899320616259585/photo/1)
+* ["Sc3nius"](https://twitter.com/0xKMG/status/1456632978231074816)
 
-<span class="roam-page">[November 5th, 2021](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/november-5th-2021)</span>
-
-* ["Sc3nius"](https://twitter.com/0xKMG/status/1456632978231074816) - summarized by [[0xKMG]]
-
-  - **TL;DR**
+      * https://twitter.com/0xKMG/status/1456632978231074816
+  - [[TL;DR]]
 
     + Web3 is a Scenius with 11 contributing factors. Get involved, WAGMI.
     + “Scenius is like genius, only embedded in a scene rather than in genes.” - Kevin Kelly
-  - **Thread**
+  - [[Thread]]
 
+    + [Tweet](https://twitter.com/i/status/1456632978231074816) by [@0xKMG](https://twitter.com/0xKMG) on [[November 5th, 2021]]:
     + 1/10 Sc3nius
 
       * by Packy McCormick [@packyM](https://twitter.com/packyM)
-      * **TL;DR**:
+      * TL;DR:
       * Web3 is a Scenius with 11 contributing factors. Get involved, WAGMI.
       * “Scenius is like genius, only embedded in a scene rather than in genes.” - Kevin Kelly
       * A [@scribeDAO](https://twitter.com/scribeDAO) summary. [pic.twitter.com/nDAPGBznq7](https://twitter.com/0xKMG/status/1456632978231074816/photo/1)
@@ -264,7 +273,7 @@ date: 2021-09-28T17:46:48.249000
       * Get involved in Web3, NFTs, DAOs and Defi etc.
       * You may put your skills to work wherever they can do the most good
       * Unlike Scenius throughout history, it is open to anyone with an internet connection this time
-      * End of **Thread**. [pic.twitter.com/KzK84PSBwJ](https://twitter.com/0xKMG/status/1456633015283576835/photo/1)
+      * End of thread. [pic.twitter.com/KzK84PSBwJ](https://twitter.com/0xKMG/status/1456633015283576835/photo/1)
     + @ScribeDAO
 
       * synthesizes lengthy crypto news into concise, informative summaries
@@ -274,11 +283,16 @@ date: 2021-09-28T17:46:48.249000
       * @ScribeDAO
       * so we can add the best articles to our backlog!
       * Join our Discord
-* [Thread about Risk Harbor](https://twitter.com/sleeveshifty/status/1456727525401325572) - by [[@sleeveshifty]]
+* {{[[TODO]]}} Thread about [Risk Harbor](https://twitter.com/sleeveshifty/status/1456727525401325572)
 
-  - **Thread**
+      * https://twitter.com/sleeveshifty/status/1456727525401325572
+  - [[TL;DR]]
 
-    + 🧵 Here's a summary **Thread** on the latest hot topic ~ [@stablekwon](https://twitter.com/stablekwon) [@terra_money](https://twitter.com/terra_money)'s groundbreaking risk management protocol [@riskharbor](https://twitter.com/riskharbor)  that will safeguard the 🌕 🔒
+    + 
+  - [[Thread]]
+
+    + [Tweet](https://twitter.com/i/status/1456727525401325572) by [@sleeveshifty](https://twitter.com/sleeveshifty) on [[November 5th, 2021]]:
+    + 🧵 Here's a summary thread on the latest hot topic ~ [@stablekwon](https://twitter.com/stablekwon) [@terra_money](https://twitter.com/terra_money)'s groundbreaking risk management protocol [@riskharbor](https://twitter.com/riskharbor)  that will safeguard the 🌕 🔒
 
       * [twitter.com/riskharbor/sta…](https://twitter.com/riskharbor/status/1456296076458160137)
     + 1/10 Current DeFi protection relies on governance to assess claims.
@@ -326,84 +340,90 @@ date: 2021-09-28T17:46:48.249000
     + 🧵 This topic of crypto / DeFi risk management &amp; insurance is of particular interest to me, and I would love to discuss this further with anyone.
 
       * For more summaries of the freshest news, hit up @ScribeDAO ✏️
-* ["Meditation on Moloch"](https://twitter.com/yahya_ahd/status/1456656933662990338) - summarized by [[Yahya]]
+* ["Meditation on Moloch"](https://twitter.com/yahya_ahd/status/1456656933662990338)
 
-  - **Thread**
+      * https://twitter.com/yahya_ahd/status/1456656933662990338
+  - [[TL;DR]]
 
+    + 
+  - [[Thread]]
+
+    + [Tweet](https://twitter.com/i/status/1456656933662990338) by [@yahya_ahd](https://twitter.com/yahya_ahd) on [[November 5th, 2021]]:
     + Our social systems makes us do all sorts of stuff that we don't really want to do.
 
       * In "Meditation on Moloch", [@slatestarcodex](https://twitter.com/slatestarcodex) goes deep into how this happens.
       * Here's a 10-tweet summary of the article.
-      * A [@scribeDAO](https://twitter.com/scribeDAO) **Thread**.
-    + 1/10
+      * A [@scribeDAO](https://twitter.com/scribeDAO) thread.
+    + [@slatestarcodex](https://twitter.com/slatestarcodex) [@scribeDAO](https://twitter.com/scribeDAO) 1/10
 
       * Various interactions between people give rise to an emergent coherent whole. Incentive structures and game theoretic constraints gives this whole a distinct nature.
       * Moloch is one such entity.
       * Moloch is the thing that makes people participate in a system they don't want.
-    + 2/10
+    + [@slatestarcodex](https://twitter.com/slatestarcodex) [@scribeDAO](https://twitter.com/scribeDAO) 2/10
 
       * @slatestarcodex gives several concrete examples for Moloch.
-
-        - Prisoner's Dilemma
-        - Malthusian trap
-        - Dollar auctions
-        - Arms races
-        - etc.
+      * Prisoner's Dilemma
+      * Malthusian trap
+      * Dollar auctions
+      * Arms races
+      * etc.
       * Basically, any dystopia where participants hate the system but nevertheless continue propagating it is an instantiation of Moloch.
-    + 3/10
+    + [@slatestarcodex](https://twitter.com/slatestarcodex) [@scribeDAO](https://twitter.com/scribeDAO) 3/10
 
       * Basic driver:
       * In some competition optimizing for X, there'll be opportunity to throw some other value for improved X. Only those who'll take it will survive. Eventually, everyone’s relative status will be same as before, but everyone’s absolute status will be worse.
-    + 4/10
+    + [@slatestarcodex](https://twitter.com/slatestarcodex) [@scribeDAO](https://twitter.com/scribeDAO) 4/10
 
       * "He always and everywhere offers the same deal: throw what you love most into the flames, and I can grant you power"
       * Understanding the principle will allow us to predict the evolution of social landscape. It also means that we can work on altering the incentive structures.
-    + 5/10
+    + [@slatestarcodex](https://twitter.com/slatestarcodex) [@scribeDAO](https://twitter.com/scribeDAO) 5/10
 
       * There are 4 reasons why our social order isn't ruined by Moloch, yet. However, they may not stay the same.
       * 1/ Excess resources
       * When resources aren't scarce enough to lock us in a war of all against all, people won't take Moloch's offer.
-    + 6/10
+    + [@slatestarcodex](https://twitter.com/slatestarcodex) [@scribeDAO](https://twitter.com/scribeDAO) 6/10
 
       * 2/ Physical limitation
       * It'll prohibit some of Moloch's trades. For eg, you can't starve slaves. If u do, they won't be as much productive.
       * However, technology is making this condition obsolete. Now we have Soylent and modafinil.
-    + 7/10
+    + [@slatestarcodex](https://twitter.com/slatestarcodex) [@scribeDAO](https://twitter.com/scribeDAO) 7/10
 
       * 3/ Utility maximization
       * Many of the utilities these systems optimize for involve human values. Democracy meets citizen values.
       * Propaganda or memes that can spread independent of their truth value is a challenge to this condition. Propaganda helps Moloch coopt democracy.
-    + 8/10
+    + [@slatestarcodex](https://twitter.com/slatestarcodex) [@scribeDAO](https://twitter.com/scribeDAO) 8/10
 
       * Only the 4th reason was said as "good reason" by Scott.
       * 4/ Coordination
       * In the case of Prisoner's dilemma, a Gang leader who'll kill the anyone who defects is a enforcement mechanism for coordination.
       * Technology can seriously improve our coordination capacities.
-    + 9/10
+    + [@slatestarcodex](https://twitter.com/slatestarcodex) [@scribeDAO](https://twitter.com/scribeDAO) 9/10
 
       * @slatestarcodex discusses various approaches to this Moloch problem. In the end, he posits that the solution to this problem is to create another whole that is capable of slaying the Moloch.
-    + 10/10
+    + [@slatestarcodex](https://twitter.com/slatestarcodex) [@scribeDAO](https://twitter.com/scribeDAO) 10/10
 
       * "As long as the offer’s open, it will be irresistible. So we need to close the offer. Only another god can kill Moloch. We have one on our side, but he needs our help. We should give it to him."
       * Full article can be found at [Meditations On Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
-    + [@scribeDAO](https://twitter.com/scribeDAO) synthesizes lengthy crypto news into concise summaries. Want more?
+    + [@slatestarcodex](https://twitter.com/slatestarcodex) [@scribeDAO](https://twitter.com/scribeDAO) @ScribeDAO synthesizes lengthy crypto news into concise summaries. Want more?
 
       * Follow us!
       * Tag content with @ScribeDAO so we can add the best articles to our backlog!
       * Join our Discord: [Join the ScribeDAO Discord Server!](https://discord.gg/9SCvpvs7jX) [pic.twitter.com/BhsqdRMf1V](https://twitter.com/yahya_ahd/status/1456657007184855044/photo/1)
     + Make us* 🤧
-* ["Polkaswap Soft Launch"](https://twitter.com/DecentBass/status/1456648763326435332) - summarized by [[DecentBass.eth]]
+* ["Polkaswap Soft Launch"](https://twitter.com/DecentBass/status/1456648763326435332)
 
-  - **TL;DR**
+      * https://twitter.com/DecentBass/status/1456648763326435332
+  - [[TL;DR]]
 
-    + #Polkaswap 's launching on the @sora_xor ntwrk w a 2-way [bridge]([[bridge]]) to eth, allowing anyone to create assets, LP & trade
+    + #Polkaswap 's launching on the @sora_xor ntwrk w a 2-way bridge to eth, allowing anyone to create assets, LP & trade
     + XOR token will provide liquidity
     + Community runs [#SORA](https://twitter.com/hashtag/SORA?src=hashtag_click) ntwrk validators & Polkaswap site
-  - **Thread**
+  - [[Thread]]
 
+    + [Tweet](https://twitter.com/i/status/1456648763326435332) by [@DecentBass](https://twitter.com/DecentBass) on [[November 5th, 2021]]:
     + 1/7 Polkaswap Soft Launch by [@polkaswap](https://twitter.com/polkaswap)
 
-      * tldr: #Polkaswap 's launching on the [@sora_xor](https://twitter.com/sora_xor) ntwrk w a 2-way [bridge]([[bridge]]) to eth, allowing anyone to create assets, LP &amp; trade
+      * tldr: #Polkaswap's launching on the [@sora_xor](https://twitter.com/sora_xor) ntwrk w a 2-way bridge to eth, allowing anyone to create assets, LP &amp; trade
       * XOR token will provide liquidity
       * Community runs #SORA ntwrk validators &amp; Polkaswap site
       * A summary for [@scribeDAO](https://twitter.com/scribeDAO) [pic.twitter.com/2pbZByQrKs](https://twitter.com/DecentBass/status/1456648763326435332/photo/1)
@@ -425,11 +445,11 @@ date: 2021-09-28T17:46:48.249000
       * Can only exists b/c SORA uses Parity Substrate as the robust toolkit to run the blockchain and dApp [pic.twitter.com/TPaDYcPuln](https://twitter.com/DecentBass/status/1456648772000256002/photo/1)
     + 5/7
 
-      * Polkaswap (w their multi-chains tokens) features unparalleled decentralization, with a decent Ethereum [bridge]([[bridge]]) maintained by off-chain workers of the SORA ntwrk
+      * Polkaswap (w their multi-chains tokens) features unparalleled decentralization, with a decent Ethereum bridge maintained by off-chain workers of the SORA ntwrk
     + 6/7
 
       * The SORA Network is a new econ system aimed at creating a supranational, world economic system with built-in tools for DeFi
-      * It implements a new way of parachain architecture w the capability to [bridge]([[bridge]]) external blockchains (like Ethereum) to the Polkadot ecosystem [pic.twitter.com/GURciuZuTl](https://twitter.com/DecentBass/status/1456648777037537285/photo/1)
+      * It implements a new way of parachain architecture w the capability to bridge external blockchains (like Ethereum) to the Polkadot ecosystem [pic.twitter.com/GURciuZuTl](https://twitter.com/DecentBass/status/1456648777037537285/photo/1)
     + 7/7
 
       * Polkaswap is a non-custodial liquidity aggregating, cross-chain AMM DEX w boundless liquidity through its Aggregate Liquidity Technology (ALT)
@@ -440,10 +460,15 @@ date: 2021-09-28T17:46:48.249000
       * Follow us!
       * Let us know what content you'd like to see synthesized this week. Tag content with @ScribeDAO so we can add the best articles to our backlog!
       * Join our Discord
-* [Thread about Across Protocol](https://twitter.com/i/status/1456543144313438218) - by [[@sleeveshifty]]
+* ["🧵 An overview in 7 parts, on @AcrossProtocol's solution for instant transfers from L2 roll-ups to ETH Mainnet."](LINKTOINTROTWEET)
 
-  - **Thread**
+      * https://twitter.com/sleeveshifty/status/1456543144313438218
+  - [[TL;DR]]
 
+    + 
+  - [[Thread]]
+
+    + [Tweet](https://twitter.com/i/status/1456543144313438218) by [@sleeveshifty](https://twitter.com/sleeveshifty) on [[November 5th, 2021]]:
     + 🧵 An overview in 7 parts, on [@AcrossProtocol](https://twitter.com/AcrossProtocol)'s solution for instant transfers from L2 roll-ups to ETH Mainnet.
 
       * [twitter.com/AcrossProtocol…](https://twitter.com/AcrossProtocol/status/1452645990750695433)
@@ -464,7 +489,7 @@ date: 2021-09-28T17:46:48.249000
     + 5/7 For Depositors (users who wanna move L2 tokens back to Mainnet) 🎁, they deposit their L2 tokens along with a fee.
 
       * In return, they instantly receive tokens from the Mainnet Liquidity Pool.
-      * Which means skipping the 1-week wait when using the slow native L2 [bridge]([[bridge]]).
+      * Which means skipping the 1-week wait when using the slow native L2 bridge.
     + 6/7 For Relayers 📞 to perform an instant relay, they provide upfront money to the Depositor on Mainnet.
 
       * ~ In essence, the Relayer provides a short-term loan, and is incentivised by a fee. ~
@@ -476,66 +501,66 @@ date: 2021-09-28T17:46:48.249000
       * 👉 Cross-chain airdrops
     + 🧵 Don't look away, [@AcrossProtocol](https://twitter.com/AcrossProtocol) launches on 8 Nov 2021!
 
-      * ~ And for more crypto **Thread**s and summaries, check out @ScribeDAO ✏️
+      * ~ And for more crypto threads and summaries, check out @ScribeDAO ✏️
+* ["A summary of @sora_xor wiki entry on Polkaswap."](https://twitter.com/yahya_ahd/status/1456276007552368646)
 
-<span class="roam-page">[November 4th, 2021](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/november-4th-2021)</span>
+      * https://twitter.com/yahya_ahd/status/1456276007552368646
+  - [[TL;DR]]
 
-* ["A summary of @sora_xor wiki entry on Polkaswap."](https://twitter.com/yahya_ahd/status/1456276007552368646) - summarized by [[Yahya]]
+    + @polkaswap is a DEX protocol for swapping tokens. It is a non-custodial, cross-chain AMM DEX protocol.
+  - [[Thread]]
 
-  - **TL;DR**
-
-    + @[polkaswap]([[Polkaswap]]) is a DEX protocol for swapping tokens. It is a non-custodial, cross-chain AMM DEX protocol.
-  - **Thread**
-
+    + [Tweet](https://twitter.com/i/status/1456276007552368646) by [@yahya_ahd](https://twitter.com/yahya_ahd) on [[November 4th, 2021]]:
     + 1/10) A summary of [@sora_xor](https://twitter.com/sora_xor) wiki entry on Polkaswap.
 
       * [@polkaswap](https://twitter.com/polkaswap) is a DEX protocol for swapping tokens. It is a non-custodial, cross-chain AMM DEX protocol.
-      * A [@scribeDAO](https://twitter.com/scribeDAO) Thread.
-    + 2/10) The 3 main use cases for Polkaswap are:
+      * A [@scribeDAO](https://twitter.com/scribeDAO) thread.
+    + [@sora_xor](https://twitter.com/sora_xor) [@polkaswap](https://twitter.com/polkaswap) [@scribeDAO](https://twitter.com/scribeDAO) 2/10) The 3 main use cases for Polkaswap are:
 
       * 1/ Swapping tokens
       * 2/ Providing liquidity
       * 3/ Removing liquidity
       * Full entry can be found at: [wiki.sora.org/sora-academy/p…](https://wiki.sora.org/sora-academy/polkaswap)
-    + 3/10) To practice swapping, using #SORA testnet is recommended.
+    + [@sora_xor](https://twitter.com/sora_xor) [@polkaswap](https://twitter.com/polkaswap) [@scribeDAO](https://twitter.com/scribeDAO) 3/10) To practice swapping, using #SORA testnet is recommended.
 
       * Links:
       * Polkaswap test application: [Polkaswap](https://test.polkaswap.io/#/swap)
       * Polkadot js SORA testnet application: https://t.co/T2cktSrH5K
       * Android testnet app: https://t.co/PsSmUFZDPL
       * iOS testnet application: [TestFlight - Apple](https://testflight.apple.com/join/670hF438)
-    + 4/10) Polkaswap's interface for swapping tokens is very intuitive and user-friendly.
+    + [@sora_xor](https://twitter.com/sora_xor) [@polkaswap](https://twitter.com/polkaswap) [@scribeDAO](https://twitter.com/scribeDAO) 4/10) Polkaswap's interface for swapping tokens is very intuitive and user-friendly.
 
       * After opening 'swap' page, select the source asset and destination asset from the dropdown. You also need to enter the asset amount. It could be for source asset or destination asset. [pic.twitter.com/vuR6oehCOi](https://twitter.com/yahya_ahd/status/1456276053656231936/photo/1)
-      * ![Image](https://pbs.twimg.com/media/FDW7VowUYBALcy2?format=jpg&name=medium)
-    + 5/10) The assets from your wallet will be listed by default. You can find and add any asset by entering its ID or name in the search field. Whitelisted assets will be listed.
+    + [@sora_xor](https://twitter.com/sora_xor) [@polkaswap](https://twitter.com/polkaswap) [@scribeDAO](https://twitter.com/scribeDAO) 5/10) The assets from your wallet will be listed by default. You can find and add any asset by entering its ID or name in the search field. Whitelisted assets will be listed.
 
       * If you'd like to add a token that isn't whitelisted, then open the "Custom" tab and enter the asset ID. https://t.co/NASZiKgJAc
-    + 6/10) Three parameters that should be understood before confirming the swap:
+    + [@sora_xor](https://twitter.com/sora_xor) [@polkaswap](https://twitter.com/polkaswap) [@scribeDAO](https://twitter.com/scribeDAO) 6/10) Three parameters that should be understood before confirming the swap:
 
       * 1/ Slippage tolerance
       * 2/ Liquidity provider fee
       * 3/ Network fee
-    + 7/10) Exchange rate on the screen is calculated the moment when you're making the swap. This rate may change before you sign and send the transaction. The transaction will be reverted if the exchange rate changes unfavorably by more than the percentage determined by slippage tolerance.
-    + 8/10) Liquidity provider fee: This is a fee that will be distributed among accounts who have a share in the liquidity pool.
+    + [@sora_xor](https://twitter.com/sora_xor) [@polkaswap](https://twitter.com/polkaswap) [@scribeDAO](https://twitter.com/scribeDAO) Exchange rate on the screen is calculated the moment when you're making the swap. This rate may change before you sign and send the transaction. The transaction will be reverted if the exchange rate changes unfavorably by more than the percentage determined by slippage tolerance.
+    + [@sora_xor](https://twitter.com/sora_xor) [@polkaswap](https://twitter.com/polkaswap) [@scribeDAO](https://twitter.com/scribeDAO) 8/10) Liquidity provider fee: This is a fee that will be distributed among accounts who have a share in the liquidity pool.
 
       * Network fee:  This is a fee for transaction in the network (gas).
-    + 9/10) Click "Swap" once you are ready. Protocol will list out the details. After checking the details, confirm and sign the transaction. Also, you can find the transaction in the "Activity" tab on the "Account" screen.
-    + 10/10) @ScribeDAO synthesizes lengthy crypto news into concise summaries. Want more?
+    + [@sora_xor](https://twitter.com/sora_xor) [@polkaswap](https://twitter.com/polkaswap) [@scribeDAO](https://twitter.com/scribeDAO) 9/10) Click "Swap" once you are ready. Protocol will list out the details. After checking the details, confirm and sign the transaction. Also, you can find the transaction in the "Activity" tab on the "Account" screen.
+    + [@sora_xor](https://twitter.com/sora_xor) [@polkaswap](https://twitter.com/polkaswap) [@scribeDAO](https://twitter.com/scribeDAO) 10/10) @ScribeDAO synthesizes lengthy crypto news into concise summaries. Want more?
 
       * Follow us!
       * Tag content with @ScribeDAO so we can add the best articles to our backlog!
       * Join our Discord: [Join the ScribeDAO Discord Server!](https://discord.gg/9SCvpvs7jX) [pic.twitter.com/KSBMWQQwnL](https://twitter.com/yahya_ahd/status/1456276135721914372/photo/1)
-* ["Introduction to DeFi and the SORA Academy"](https://twitter.com/0xandreharrison/status/1456275173435338771) - summarized by [[@0xandreharrison]]
+* ["Introduction to DeFi and the SORA Academy"](https://twitter.com/0xandreharrison/status/1456275173435338771)
 
-  - **TL;DR**
+      * https://twitter.com/0xandreharrison/status/1456275173435338771
+  - [[TL;DR]]
 
     + With so many ways to DeFi (swapping, liquidity provisions, NFT market, etc.), SORA Academy is the best place to start with an abundance of beginner-friendly resources.
-  - **Thread**
+  - [[Thread]]
 
+    + [Tweet](https://twitter.com/i/status/1456275173435338771) by [@0xandreharrison](https://twitter.com/0xandreharrison) on [[November 4th, 2021]]:
     + 1/9 Introduction to DeFi and the SORA Academy by [@sora_xor](https://twitter.com/sora_xor)
 
-      * **TL;DR**:
+      * TL;DR:
       * With so many ways to DeFi (swapping, liquidity provisions, NFT market, etc.), SORA Academy is the best place to start with an abundance of beginner-friendly resources.
       * A summary for [@scribeDAO](https://twitter.com/scribeDAO) [pic.twitter.com/fz5nHoZVU6](https://twitter.com/0xandreharrison/status/1456275173435338771/photo/1)
     + 2/9 Original Medium article:
@@ -572,20 +597,22 @@ date: 2021-09-28T17:46:48.249000
     + 9/9 Recommended reads for beginners
 
       * How to Open Accounts in #SORA: [Accounts in SORA](https://wiki.sora.org/sora-academy/accounts-in-sora)
-      * Beginner's Guide to #Polkaswap : [Polkaswap](https://wiki.sora.org/sora-academy/polkaswap) [pic.twitter.com/JxXn2OciZ9](https://twitter.com/0xandreharrison/status/1456275205957963784/photo/1)
+      * Beginner's Guide to #Polkaswap: [Polkaswap](https://wiki.sora.org/sora-academy/polkaswap) [pic.twitter.com/JxXn2OciZ9](https://twitter.com/0xandreharrison/status/1456275205957963784/photo/1)
     + @ScribeDAO synthesizes lengthy crypto news into concise, informative summaries
 
       * Want more summaries?
       * Follow us!
       * Let us know what content you'd like to see synthesized this week. Tag content with @ScribeDAO so we can add the best articles to our backlog!
       * Join our Discord
-* ["A Guide on Launching Grant Programs for Token Network Communities"](https://twitter.com/0xnyew/status/1456245950729523202) - summarized by [[0xnyew]]
+* ["A Guide on Launching Grant Programs for Token Network Communities"](https://twitter.com/0xnyew/status/1456245950729523202)
 
-  - **TL;DR**
+      * https://twitter.com/0xnyew/status/1456245950729523202
+  - [[TL;DR]]
 
     + Reward the right people w/ grants. Do it fast, open & min red tapes.
-  - **Thread**
+  - [[Thread]]
 
+    + [Tweet](https://twitter.com/i/status/1456245950729523202) by [@0xnyew](https://twitter.com/0xnyew) on [[November 4th, 2021]]:
     + Struggling to retain your top contributors?
 
       * Dying morale &amp; still no clues?
@@ -619,7 +646,6 @@ date: 2021-09-28T17:46:48.249000
       * Internally to retain members, fund initiatives, solve public goods needs
       * Externally to attract potential grantees, provide platform, elevate grantees' status
       * Goal is to empower community thru token ownership, funding &amp; social capital. [pic.twitter.com/sE5XPbTGlf](https://twitter.com/0xnyew/status/1456245958442819590/photo/1)
-      * ![Image](https://pbs.twimg.com/media/FDWf-2MVIAIe6__?format=png&name=medium)
     + 6/10 How to it set up
 
       * 1/ Define scope
@@ -630,14 +656,12 @@ date: 2021-09-28T17:46:48.249000
       * Clear template guidance
       * Set targets (goals, timeline etc)
       * Collect thru forums [pic.twitter.com/aJlBMNvYew](https://twitter.com/0xnyew/status/1456245962544795655/photo/1)
-      * ![Image](https://pbs.twimg.com/media/FDWf_HCVUAo_TBz?format=jpg&name=medium)
     + 7/10 con
 
       * 3/ Due diligence &amp; decision making
       * Standardize the vetting process
       * Keep the community informed
       * Keep it open and transparent [pic.twitter.com/UJtvv3yG0T](https://twitter.com/0xnyew/status/1456245965946449922/photo/1)
-      * ![Image](https://pbs.twimg.com/media/FDWf_TuVEAcqCD-?format=png&name=large)
     + 8/10 con
 
       * 4/ Improvise
@@ -654,7 +678,6 @@ date: 2021-09-28T17:46:48.249000
       * [dxDAO](http://daotalk.org/c/dx-dao/15) by [@DXdao_](https://twitter.com/DXdao_)
       * [molochdao.com/projects](http://molochdao.com/projects) by [@MolochDAO](https://twitter.com/MolochDAO)
       * [Featured Projects](http://esp.ethereum.foundation/en/projects/) by [@EF_ESP](https://twitter.com/EF_ESP) https://t.co/py9HGjay9e
-      * ![Image](https://pbs.twimg.com/media/FDWf_nlVcAUtsw5?format=jpg&name=large)
     + 10/10 Tight feedback loops for grantees
 
       * Finally, aim for fast &amp; responsive feedback to keep everyone engaged and in the loop.
@@ -671,11 +694,16 @@ date: 2021-09-28T17:46:48.249000
       * Tag @ScribeDAO with your favorite content
       * Welcome! And send your warmest gm at 👇
       * [discord.com/invite/ySFKTEy…](https://discord.com/invite/ySFKTEyGn8)
-* ["Why Parallel?"](https://twitter.com/poyimone/status/1456174469525819393) - summarized by [[wenmoonsir.eth @poyimone]]
+* ["Why Parallel?"](https://twitter.com/poyimone/status/1456174469525819393)
 
-  - **Thread**
+      * https://twitter.com/poyimone/status/1456174469525819393
+  - [[TL;DR]]
 
-    + A **Thread**  on Why Parallel
+    + 
+  - [[Thread]]
+
+    + [Tweet](https://twitter.com/i/status/1456174469525819393) by [@poyimone](https://twitter.com/poyimone) on [[November 4th, 2021]]:
+    + A thread  on Why Parallel
 
       * Original article [Why Parallel?](https://medium.com/@Fitchinverse/why-parallel-1f939f5aa714)
       * A summary for @scribeDao
@@ -734,16 +762,15 @@ date: 2021-09-28T17:46:48.249000
 
       * &gt;Estimates suggest Parallel team will have approximately 100 million USD in deployable capital by the end of 2021
     + Follow @scribeDao for more summaries
+* ["Many Worlds. One Economy."](https://twitter.com/0xKMG/status/1455927839644028934)
 
-<span class="roam-page">[November 3rd, 2021](https://github.com/mattaverse/ivy-write-garden-ARCHIVE/november-3rd-2021)</span>
-
-* ["Many Worlds. One Economy."](https://twitter.com/0xKMG/status/1455927839644028934) - summarized by [[0xKMG]]
-
-  - **TL;DR**
+      * https://twitter.com/0xKMG/status/1455927839644028934
+  - [[TL;DR]]
 
     + XOR is designed by #SORA specifically for use as a currency in any country, perfect to power the metaverse and be scaled up to serve as an InterPlanetary Economic System (IPES)
-  - **Thread**
+  - [[Thread]]
 
+    + [Tweet](https://twitter.com/i/status/1455927839644028934) by [@0xKMG](https://twitter.com/0xKMG) on [[November 3rd, 2021]]:
     + 1/8 Many Worlds. One Economy. by [@sora_xor](https://twitter.com/sora_xor)
 
       * TLDR: XOR is designed by #SORA specifically for use as a currency in any country, perfect to power the metaverse and be scaled up to serve as an InterPlanetary Economic System (IPES)
@@ -765,8 +792,7 @@ date: 2021-09-28T17:46:48.249000
       * [Crypto exchanges struggle as El Salvador adopts Bitcoin](https://www.theverge.com/2021/9/7/22660932/crypto-exchanges-el-salvador-bitcoin-price-dip)
     + 6/8 Benefit of using XOR as a currency (3)
 
-      * Tackle slow block times and high fees. Thanks to the SORA Token Bonding Curve, a transaction on XOR costs only cents and takes up to 3 secs to complete on average (costs a few dollars and ~15mins on the Bitcoin Network). [pic.twitter.com/HqE1o9iq50](https://twitter.com/0xKMG/status/1455927852881178632/photo/1)
-      * ![Image](https://pbs.twimg.com/media/FDR-qoEVIAIgXtj?format=jpg&name=large)
+      * Tackle slow block times and high fees. Thanks to the SORA Token Bonding Curve, a transaction on XOR costs only cents and takes up to 3 secs to complete on average (costs a few dollars and &gt;15mins on the Bitcoin Network). [pic.twitter.com/HqE1o9iq50](https://twitter.com/0xKMG/status/1455927852881178632/photo/1)
     + 7/8 Power the Metaverse
 
       * Two main use cases of XOR:
@@ -783,14 +809,16 @@ date: 2021-09-28T17:46:48.249000
       * Follow us!
       * Let us know what content you'd like to see synthesized this week. Tag content with @ScribeDAO so we can add the best articles to our backlog!
       * Join our Discord
-* ["Narrative Distillation"](https://twitter.com/sleeveshifty/status/1455966985922048004) - summarized by [[@sleeveshifty]]
+* ["Narrative Distillation"](https://twitter.com/sleeveshifty/status/1455966985922048004)
 
-  - **TL;DR**
+      * https://twitter.com/sleeveshifty/status/1455966985922048004
+  - [[TL;DR]]
 
     + Stepping back from crypto, here's a broader look at the role of narrative and CEOs in tech companies today.
-  - **Thread**
+  - [[Thread]]
 
-    + 🧵 A @ScribeDAO **Thread**. We summarise interesting articles for you.
+    + [Tweet](https://twitter.com/i/status/1455966985922048004) by [@sleeveshifty](https://twitter.com/sleeveshifty) on [[November 3rd, 2021]]:
+    + 🧵 A @ScribeDAO thread. We summarise interesting articles for you.
 
       * "Narrative Distillation" by [@kevinakwok](https://twitter.com/kevinakwok)
       * [Narrative Distillation - kwokchain](https://kwokchain.com/2021/09/29/narrative-distillation-1)
@@ -840,13 +868,15 @@ date: 2021-09-28T17:46:48.249000
     + 🧵 Personal thoughts ~ I wonder if we're giving too little credit to people's ability to look beyond narrative / hype / branding when choosing to support a company. Still, a thoroughly informative and immersive read.
 
       * If you enjoyed this, follow @ScribeDAO for more summaries ✏️
-* [Thread about RomeDAO](https://twitter.com/GoolagCrypto/status/1455775714242809866) - by [[Goolag]]
+* {{[[TODO]]}} [Thread of RomeDAO](https://twitter.com/GoolagCrypto/status/1455775714242809866)
 
-  - **TL;DR**
+      * https://twitter.com/GoolagCrypto/status/1455775714242809866
+  - [[TL;DR]]
 
     + RomeDAO is expanding the Olympus ecosystem onto the Kusama and Polkadot chains with a fresh perspective on how to carry out the Ohmie mission
-  - **Thread**
+  - [[Thread]]
 
+    + [Tweet](https://twitter.com/i/status/1455775714242809866) by [@GoolagCrypto](https://twitter.com/GoolagCrypto) on [[November 3rd, 2021]]:
     + 🧵on [@romedaofinance](https://twitter.com/romedaofinance) for [@scribeDAO](https://twitter.com/scribeDAO)
 
       * TL:DR; RomeDAO is expanding the Olympus ecosystem onto the Kusama and Polkadot chains with a fresh perspective on how to carry out the Ohmie mission
@@ -854,11 +884,11 @@ date: 2021-09-28T17:46:48.249000
     + 🅰️Why Kusama/Polkadot?
 
       * Moonriver is EVM-compatible with significant liquidity that Romans can leverage to be seen as the premier stable asset within the ecosystem
-      * Their unique value props are out of scope for this **Thread**, but lead to them being primed for exponential growth [pic.twitter.com/1IJJ60kRfK](https://twitter.com/GoolagCrypto/status/1455775722648137728/photo/1)
+      * Their unique value props are out of scope for this thread, but lead to them being primed for exponential growth [pic.twitter.com/1IJJ60kRfK](https://twitter.com/GoolagCrypto/status/1455775722648137728/photo/1)
     + 1⃣ Mechanism design
 
       * Following OHM in its goal to create a healthy POL based reserve currency RomeDAO is offering 3 different bonds with FRAX, MIM, and MOVR as an initial means of bootstrapping
-      * There's a potential partnership with [@AnyswapNetwork](https://twitter.com/AnyswapNetwork) to [bridge]([[bridge]]) assets to MOVR
+      * There's a potential partnership with [@AnyswapNetwork](https://twitter.com/AnyswapNetwork)  to bridge assets to MOVR
     + 2⃣ Tokenomics
 
       * Rome will have 100% of tokens be allocated to the community, meaning founding members of the DAO are also buying into the DAO at the same time as you
@@ -904,10 +934,5 @@ date: 2021-09-28T17:46:48.249000
 
       * Community tends to be the only true moat for emerging DeFi protocols as one can always fork code
       * Rome's potential is seen with OHM, but their significant focus on community will be a true differentiator that enables them to be a mainstay on the DOT/MOVR ecosytems [pic.twitter.com/DAEalNaIUy](https://twitter.com/GoolagCrypto/status/1455775764461146125/photo/1)
-
----
-
-* Captured [[November 6th, 2021]]
-
 
 
